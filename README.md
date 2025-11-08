@@ -32,10 +32,15 @@ Envie um Pull Request com uma breve explicação da sua contribuição.
 
 📂 MundoRagnarok-Forge
  ├── 📁 npc/               → NPCs personalizados
+ 
  ├── 📁 scripts/           → Scripts diversos (eventos, sistemas, etc.)
+ 
  ├── 📁 tools/             → Ferramentas e utilitários
+ 
  ├── 📁 docs/              → Guias e tutoriais
+ 
  ├── LICENSE
+ 
  └── README.md
  
 🏅 Reconhecimento no Discord
